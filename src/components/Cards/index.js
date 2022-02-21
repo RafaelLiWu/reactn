@@ -29,7 +29,6 @@ const Cards = () => {
               flex: 1,
               justifyContent: "center",
               alignItems: "center",
-              backgroundColor: "red"
             }}
           >
             <InsertCards />
